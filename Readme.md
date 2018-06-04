@@ -1,4 +1,6 @@
 # Intercom Webhook Extra Winmail.dat
+![](/docs/screenshot.png)
+
 - This is [Intercom webhook](https://docs.intercom.io/integrations/webhooks) processing code to 
    - automatically extra winmail.dat files that end up in the Intercom 
    - and adds links to the extracted files as a note in the conversation
